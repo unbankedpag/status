@@ -43,7 +43,7 @@ params:
   description: >-
     We continuously monitor the status of our services and if there are any
     interruptions, a note will be posted here.
-  useLargeHeaderDesign: false
+  useLargeHeaderDesign: true
 theme: cstate
 preserveTaxonomyNames: true
 taxonomies:

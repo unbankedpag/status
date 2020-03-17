@@ -9,11 +9,11 @@ params:
   down: '#e60000'
   systems:
     - name: API
-      description: The guts of the application.
+      description: The core of our application.
       category: Uncategorized
-    - name: Gateway
+    - name: Website
       category: Uncategorized
-      description: ''
+      description: Our frontend.
   dateFormat: 'January 2, 2006 at 3:04 PM'
   brand: '#222222'
   headerTextColor: white

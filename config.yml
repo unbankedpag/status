@@ -8,38 +8,32 @@ params:
   shortDateFormat: '15:04 — Jan 2'
   down: '#e60000'
   systems:
-    - name: Gateway
-      category: North Coast
-    - name: Backup Gateway
-      category: East Coast
     - name: API
       description: The guts of the application.
       category: Uncategorized
-    - name: Media Proxy
-      description: >-
-        This is the service responsible for serving images, audio, and video. It
-        is reliant on our CDN.
+    - name: Gateway
       category: Uncategorized
+      description: ''
   dateFormat: 'January 2, 2006 at 3:04 PM'
   brand: '#222222'
   headerTextColor: white
   logo: /img/logo-white.png
   incidentPostsPerPage: 10
   googleAnalytics: UA-00000000-1
+  customTabs:
+    - link: 'https://uptime.unbanked.com.br'
+      name: Uptime Monitor
   alwaysKeepBrandColor: true
   disableComplexCalculations: false
   useLogo: true
   disrupted: '#cc4400'
   notice: '#24478f'
-  incidentHistoryFormat: yearly
+  incidentHistoryFormat: monthly
   ok: '#008000'
   categories:
-    - name: North Coast
-      description: The main servers are located here.
-      closed: true
-    - name: East Coast
     - name: Uncategorized
       untitled: true
+      closed: false
   description: >-
     We continuously monitor the status of our services and if there are any
     interruptions, a note will be posted here.

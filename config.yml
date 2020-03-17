@@ -21,7 +21,7 @@ params:
         is reliant on our CDN.
       category: Uncategorized
   dateFormat: 'January 2, 2006 at 3:04 PM'
-  brand: '#333333'
+  brand: '#222222'
   headerTextColor: white
   logo: /img/logo-white.png
   incidentPostsPerPage: 10

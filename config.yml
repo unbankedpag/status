@@ -14,6 +14,8 @@ params:
     - name: Website
       category: Uncategorized
       description: Our frontend.
+    - name: Google Cloud Pub/Sub
+      category: Google Cloud Platform
   dateFormat: 'January 2, 2006 at 3:04 PM'
   brand: '#222222'
   headerTextColor: white
@@ -36,6 +38,8 @@ params:
       closed: false
     - name: Frontend
     - name: Backend
+    - name: Google Cloud Platform
+      description: Cloud provider for our services.
   description: >-
     We continuously monitor the status of our services and if there are any
     interruptions, a note will be posted here.

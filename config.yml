@@ -18,6 +18,8 @@ params:
       category: Comercial Environment
     - category: Comercial Environment
       name: Banking Services
+    - category: Comercial Environment
+      name: Compliance Services
     - name: Google Pub/Sub
       category: Google Cloud Platform
     - name: Google Stackdriver
@@ -62,8 +64,6 @@ params:
       name: Predictions
     - category: Firebase
       name: ML Kit
-    - category: Comercial Environment
-      name: KCY/Validation Services
   dateFormat: 'January 2, 2006 at 3:04 PM'
   brand: '#222222'
   headerTextColor: white

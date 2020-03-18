@@ -14,8 +14,26 @@ params:
     - name: Website
       category: Uncategorized
       description: Our frontend.
-    - name: Google Cloud Pub/Sub
+    - name: Google Pub/Sub
       category: Google Cloud Platform
+    - name: Google Stackdriver
+      category: Google Cloud Platform
+    - name: Google Cloud Tasks
+      category: Google Cloud Platform
+    - category: Google Cloud Platform
+      name: Google Compute Engine
+    - category: Google Cloud Platform
+      name: Google BigQuery
+    - category: Google Cloud Platform
+      name: Google Cloud Scheduler
+    - category: Google Cloud Platform
+      name: Google Container Registry
+    - category: Google Cloud Platform
+      name: Google Cloud Build
+    - category: Google Cloud Platform
+      name: Google Cloud Endpoints
+    - category: Google Cloud Platform
+      name: Google Cloud Run
   dateFormat: 'January 2, 2006 at 3:04 PM'
   brand: '#222222'
   headerTextColor: white

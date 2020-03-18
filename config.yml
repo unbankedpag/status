@@ -94,8 +94,6 @@ params:
       closed: false
     - name: Production Environment
       description: Our production environment for the B2C segment.
-    - name: Corporate Environment
-      description: Our production environment for the B2B and B2B2C segments.
     - name: Google Cloud Platform
       description: Cloud provider for our services.
       closed: true

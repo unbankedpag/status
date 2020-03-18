@@ -10,17 +10,17 @@ params:
   systems:
     - name: API Gateway
       description: The orchestrator of our applications.
-      category: Comercial Environment
+      category: Production Environment
     - name: Main Website
-      category: Comercial Environment
+      category: Production Environment
       description: Our frontend hosting.
     - name: Store Website
-      category: Comercial Environment
-    - category: Comercial Environment
+      category: Production Environment
+    - category: Production Environment
       name: Banking Services
     - name: Payments Services
-      category: Comercial Environment
-    - category: Comercial Environment
+      category: Production Environment
+    - category: Production Environment
       name: Compliance Services
     - name: Google Pub/Sub
       category: Google Cloud Platform
@@ -90,7 +90,7 @@ params:
     - name: Uncategorized
       untitled: true
       closed: false
-    - name: Comercial Environment
+    - name: Production Environment
       description: Our production environment for the B2C segment.
     - name: Corporate Environment
       description: Our production environment for the B2B and B2B2C segments.

@@ -11,9 +11,9 @@ params:
     - name: API Gateway
       description: The orchestrator of our applications.
       category: Comercial Environment
-    - name: Website
-      category: Uncategorized
-      description: Our frontend.
+    - name: Main Website
+      category: Comercial Environment
+      description: Our frontend hosting.
     - name: Google Pub/Sub
       category: Google Cloud Platform
     - name: Google Stackdriver

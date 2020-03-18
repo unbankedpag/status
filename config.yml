@@ -34,6 +34,30 @@ params:
       name: Google Cloud Endpoints
     - category: Google Cloud Platform
       name: Google Cloud Run
+    - name: Cloud Firestore
+      category: Firebase
+    - category: Firebase
+      name: Cloud Functions
+    - category: Firebase
+      name: Authentication
+    - category: Firebase
+      name: Hosting
+    - category: Firebase
+      name: Cloud Storage
+    - category: Firebase
+      name: Google Analytics
+    - category: Firebase
+      name: Dynamic Links
+    - category: Firebase
+      name: Crashlytics
+    - category: Firebase
+      name: Performance Monitoring
+    - category: Firebase
+      name: Cloud Messaging
+    - category: Firebase
+      name: Predictions
+    - category: Firebase
+      name: ML Kit
   dateFormat: 'January 2, 2006 at 3:04 PM'
   brand: '#222222'
   headerTextColor: white
@@ -43,6 +67,10 @@ params:
   customTabs:
     - link: 'https://uptime.unbanked.com.br'
       name: Uptime Monitor
+    - name: Google Cloud Status
+      link: 'https://status.cloud.google.com'
+    - name: Firebase Status
+      link: 'https://status.firebase.google.com'
   alwaysKeepBrandColor: true
   disableComplexCalculations: false
   useLogo: true
@@ -58,6 +86,7 @@ params:
     - name: Backend
     - name: Google Cloud Platform
       description: Cloud provider for our services.
+    - name: Firebase
   description: >-
     We continuously monitor the status of our services and if there are any
     interruptions, a note will be posted here.

@@ -10,7 +10,7 @@ params:
   systems:
     - name: API Gateway
       description: The orchestrator of our applications.
-      category: 'Comercial Environment, Corporate Environment'
+      category: Comercial Environment
     - name: Main Website
       category: Comercial Environment
       description: Our frontend hosting.

@@ -50,6 +50,8 @@ params:
       name: Dynamic Links
     - category: Firebase
       name: Crashlytics
+    - name: Store Website
+      category: Comercial Environment
     - category: Firebase
       name: Performance Monitoring
     - category: Firebase
@@ -58,8 +60,6 @@ params:
       name: Predictions
     - category: Firebase
       name: ML Kit
-    - name: Store Website
-      category: Comercial Environment
   dateFormat: 'January 2, 2006 at 3:04 PM'
   brand: '#222222'
   headerTextColor: white

@@ -18,10 +18,10 @@ params:
       category: Comercial Environment
     - category: Comercial Environment
       name: Banking Services
-    - category: Comercial Environment
-      name: Compliance Services
     - name: Payments Services
       category: Comercial Environment
+    - category: Comercial Environment
+      name: Compliance Services
     - name: Google Pub/Sub
       category: Google Cloud Platform
     - name: Google Stackdriver

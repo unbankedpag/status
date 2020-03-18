@@ -8,9 +8,9 @@ params:
   shortDateFormat: '15:04 — Jan 2'
   down: '#e60000'
   systems:
-    - name: API
-      description: The core of our application.
-      category: Uncategorized
+    - name: API Gateway
+      description: The orchestrator of our applications.
+      category: Comercial Environment
     - name: Website
       category: Uncategorized
       description: Our frontend.

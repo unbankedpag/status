@@ -14,6 +14,8 @@ params:
     - name: Main Website
       category: Comercial Environment
       description: Our frontend hosting.
+    - name: Store Website
+      category: Comercial Environment
     - name: Google Pub/Sub
       category: Google Cloud Platform
     - name: Google Stackdriver
@@ -50,8 +52,6 @@ params:
       name: Dynamic Links
     - category: Firebase
       name: Crashlytics
-    - name: Store Website
-      category: Comercial Environment
     - category: Firebase
       name: Performance Monitoring
     - category: Firebase

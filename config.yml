@@ -82,7 +82,7 @@ params:
     - name: Uncategorized
       untitled: true
       closed: false
-    - name: Frontend
+    - name: Comercial Environment
     - name: Backend
     - name: Google Cloud Platform
       description: Cloud provider for our services.

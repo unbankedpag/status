@@ -60,6 +60,8 @@ params:
       name: Predictions
     - category: Firebase
       name: ML Kit
+    - category: Comercial Environment
+      name: Banking Services
   dateFormat: 'January 2, 2006 at 3:04 PM'
   brand: '#222222'
   headerTextColor: white
